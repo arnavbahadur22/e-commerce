@@ -28,6 +28,7 @@ const Sort = () => {
           </select>
         </form>
       </div>
+      <div>sdfasdfdsa</div>
     </div>
   )
 }
@@ -37,9 +38,6 @@ const Button = styled.button`
   background-color: #F8F0E5;
   padding: 5px 8px;
   font-size: 20px;
-  border-color: transparent;
-  border-radius: 5px;
-  cursor : pointer;
   &:hover:active{
     svg{
       color : red;
