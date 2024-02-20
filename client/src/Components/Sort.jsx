@@ -28,7 +28,6 @@ const Sort = () => {
           </select>
         </form>
       </div>
-      <div>llllllllll</div>
     </div>
   )
 }
